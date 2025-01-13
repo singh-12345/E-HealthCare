@@ -1,4 +1,4 @@
-const BASE_URL = "https://e-healthcare-server-sczm.onrender.com"
+const BASE_URL = "https://e-healthcare-server-sczm.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
